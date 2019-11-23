@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# rails_chat_realtime ruby on rails learning phase socket 
